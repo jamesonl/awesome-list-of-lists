@@ -46,6 +46,20 @@ A public collection of all the amazing lists I've come across on github (or else
 ## Assets:
  - [Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
  - [Podcasts](https://github.com/rShetty/awesome-podcasts)
+ - **[Amazon Web Services (AWS)](https://github.com/donnemartin/awesome-aws)**
+    - [Python AWS SDK](https://github.com/boto/boto3)
+
+## Workflows:
+
+## Marketplaces:
+ - Github Marketplace
+    - [Making an app on the Github Marketplace](https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/)
+ - Slack Marketplace
+    - [Writing a Slack bot](https://medium.com/slack-developer-blog/build-a-serverless-slack-bot-in-9-minutes-with-node-js-and-stdlib-b993cfa15358)
+    - [Bot resources](https://slack.com/help/articles/115005265703-create-a-bot-for-your-workspace)
+    - [Zapier Tutorial](https://zapier.com/blog/how-to-build-chat-bot/)
+ - Zoom Marketplace
+    - [Zoom App Creation](https://marketplace.zoom.us/develop/create)
 
 ### Other List of Lists:
  - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
