@@ -60,6 +60,10 @@ A public collection of all the amazing lists I've come across on github (or else
     - [Zapier Tutorial](https://zapier.com/blog/how-to-build-chat-bot/)
  - Zoom Marketplace
     - [Zoom App Creation](https://marketplace.zoom.us/develop/create)
+ - [Stripe Marketplace](https://stripe.com/partners/apps-and-extensions)
+ - [Shopify Marketplace](https://apps.shopify.com/)
+ - [Square Marketplace](https://squareup.com/us/en/app-marketplace)
+ - [Google G-Suite Marketplace](https://gsuite.google.com/marketplace/)
 
 ### Other List of Lists:
  - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
