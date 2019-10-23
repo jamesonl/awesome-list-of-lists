@@ -14,6 +14,9 @@ A public collection of all the amazing lists I've come across on github (or else
     - [Python](https://github.com/vinta/awesome-python)
     - [Algorithm Design (all languages)](https://github.com/tayllan/awesome-algorithms)
     - [R](https://github.com/qinwf/awesome-R)
+    - [Spark](https://github.com/awesome-spark/awesome-spark)
+      - [Mllib](https://github.com/Azure/mmlspark)
+      - [Spark Best Practices](https://github.com/ericxiao251/spark-syntax)
     
  - **Data Science:**
     - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
