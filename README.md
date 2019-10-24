@@ -64,6 +64,16 @@ A public collection of all the amazing lists I've come across on github (or else
  - [Shopify Marketplace](https://apps.shopify.com/)
  - [Square Marketplace](https://squareup.com/us/en/app-marketplace)
  - [Google G-Suite Marketplace](https://gsuite.google.com/marketplace/)
+ 
+### Worldbuilding
+ - [Wikipedia Worldbuilding page](https://en.wikipedia.org/wiki/Worldbuilding)
+ - [Kanka.io](https://github.com/ilestis/miscellany)
+ - [Kanka Github Repo](https://github.com/ilestis/miscellany)
+ - [Notebook.ai](https://github.com/indentlabs/notebook)
+ - [World Generator Repo](https://github.com/jongallant/WorldGeneratorFinal)
+ - [Historic Narratives Generator Repo](https://github.com/dmasad/WorldBuilding)
+ - [Godcomplex](https://github.com/lvn/god-complex)
+ - [Worldbuilding Best Practices](https://blog.reedsy.com/worldbuilding-guide/)
 
 ### Other List of Lists:
  - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
