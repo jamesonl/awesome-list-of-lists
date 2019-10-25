@@ -74,6 +74,13 @@ A public collection of all the amazing lists I've come across on github (or else
  - [Historic Narratives Generator Repo](https://github.com/dmasad/WorldBuilding)
  - [Godcomplex](https://github.com/lvn/god-complex)
  - [Worldbuilding Best Practices](https://blog.reedsy.com/worldbuilding-guide/)
+ 
+### Forecasting
+ - [Sklearn regression models](https://scikit-learn.org/stable/modules/linear_model.html)
+ - [An overview of forecasting](https://www.statpac.org/research-library/forecasting.htm)
+ - [Sklearn: Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+ - [Towards Data Science: Choosing a regression model](https://towardsdatascience.com/choosing-a-scikit-learn-linear-regression-algorithm-dd96b48105f5)
+ - [Scoring metrics & How to write your own scoring function](https://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation)
 
 ### Other List of Lists:
  - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
