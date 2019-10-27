@@ -36,6 +36,7 @@ A public collection of all the amazing lists I've come across on github (or else
  - **Utilities:**
     - [Command Line](https://github.com/herrbischoff/awesome-macos-command-line)
     
+-----------------------------------------------------------------------------------------------------------------------
 
 ## Skills:
  - [Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
@@ -65,6 +66,18 @@ A public collection of all the amazing lists I've come across on github (or else
  - [Square Marketplace](https://squareup.com/us/en/app-marketplace)
  - [Google G-Suite Marketplace](https://gsuite.google.com/marketplace/)
  
+### Interesting Company Design
+ - [Overcast.fm](https://overcast.fm)
+ - [List of Successful One Person Startups](https://smallbiztrends.com/2014/07/successful-one-person-startups.html)
+ - _(More Broadly)_ [List of Employee-Owned Companies](https://en.wikipedia.org/wiki/List_of_employee-owned_companies)
+ - [Some businesses choose not to grow](https://boss.blogs.nytimes.com/2012/11/01/some-businesses-choose-not-to-grow/)
+    - [Art of Running a Small Business: Wrestling with Expansion Plans](https://boss.blogs.nytimes.com/2012/11/01/wrestling-with-expansion-plans/?mtrref=boss.blogs.nytimes.com&gwh=501447D9A72014910F213393ED147BB2&gwt=pay&assetType=REGIWALL)
+    - [A Business Group Discusses Progress](https://boss.blogs.nytimes.com/2012/09/04/after-a-year-business-group-members-discuss-their-progress/?mtrref=boss.blogs.nytimes.com&gwh=953AC4F729F0DE671127E0220B9696C3&gwt=pay&assetType=REGIWALL)
+ - [Wikipedia: Micro-enterprise](https://en.wikipedia.org/wiki/Micro-enterprise) - _Primarily associated with microfinance_
+    - [The role of small microbusinesses in the economy](https://www.sba.gov/sites/default/files/Microbusinesses_in_the_Economy.pdf)
+ - **[Company of One](https://ofone.co)** - Minimalist business principles, interviews, and course content
+ - [Startup Genome Project](https://startupgenome.com) - Information about what makes startups successful, accelerator programs and hubs, as well as how to attract investors
+
 ### Worldbuilding
  - [Wikipedia Worldbuilding page](https://en.wikipedia.org/wiki/Worldbuilding)
  - [Kanka.io](https://github.com/ilestis/miscellany)
@@ -74,6 +87,8 @@ A public collection of all the amazing lists I've come across on github (or else
  - [Historic Narratives Generator Repo](https://github.com/dmasad/WorldBuilding)
  - [Godcomplex](https://github.com/lvn/god-complex)
  - [Worldbuilding Best Practices](https://blog.reedsy.com/worldbuilding-guide/)
+ - [Worldbuilding Notes](https://www.youtube.com/channel/UCncTjqw75krp9j_wRRh5Gvw)
+    - Real world example of a person buidling out EVERY (and I mean **every**) aspect of a world
  
 ### Forecasting
  - [Sklearn regression models](https://scikit-learn.org/stable/modules/linear_model.html)
@@ -81,6 +96,18 @@ A public collection of all the amazing lists I've come across on github (or else
  - [Sklearn: Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
  - [Towards Data Science: Choosing a regression model](https://towardsdatascience.com/choosing-a-scikit-learn-linear-regression-algorithm-dd96b48105f5)
  - [Scoring metrics & How to write your own scoring function](https://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation)
+
+### Conferences
+ - **Engineering**
+    - [Apache Spark / Databricks](https://databricks.com/sparkaisummit)
+       - [Historical Conference Sessions (Recorded)](https://databricks.com/sparkaisummit/north-america/sessions)
+    - [Python](https://us.pycon.org/)
+       - [Pycon 2020](https://us.pycon.org/2020/registration/)
+
+### Maker
+ - [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage)
+ - [Raspberry Pi tutorials](https://tutorials-raspberrypi.com)
+    - [Important Sensors and Components](https://tutorials-raspberrypi.com/raspberry-pi-sensors-overview-50-important-components/)
 
 ### Other List of Lists:
  - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
