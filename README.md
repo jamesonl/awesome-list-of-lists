@@ -17,6 +17,9 @@ A public collection of all the amazing lists I've come across on github (or else
     - [Spark](https://github.com/awesome-spark/awesome-spark)
       - [Mllib](https://github.com/Azure/mmlspark)
       - [Spark Best Practices](https://github.com/ericxiao251/spark-syntax)
+      - [My Spark Notes]()
+    - [Protégé - An Ontology Modeling Language](https://protege.stanford.edu/)
+      - [Cellfie Plugin](https://github.com/protegeproject/cellfie-plugin/wiki/Grocery-Tutorial) - A Protégé Desktop plugin for importing spreadsheet data into OWL ontologies.
     
  - **Data Science:**
     - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
