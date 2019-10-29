@@ -26,3 +26,15 @@ In no particular order (yet), here are all the questions that I encounter when d
  - TBD
  
 **3. How to make data from nothing?**
+
+**4. How to interpret Spark UI?**
+
+ - [Databricks explanation of how to interpret UI output](https://databricks.com/blog/2015/06/22/understanding-your-spark-application-through-visualization.html)
+    - The main problem that I have is that jobs can say that they are completed, but the broader view will still show that the overall job is executing. Trying to figure out the discrepancy has been challenging.
+ - [MapR Explanation of Spark Jobs environment](https://mapr.com/blog/getting-started-spark-web-ui/)
+    - This tutorial uses the same kinds of output that I would expect.
+    
+**5. Why do I run out of memory when performing time series windowing?**
+
+ - _"Partitioning Specification: controls which rows will be in the same partition with the given row. Also, the user might want to make sure all rows having the same value for  the category column are collected to the same machine before ordering and calculating the frame.  If no partitioning specification is given, then all data must be collected to a single machine."_ - [PySpark Explanation of Partitioning](https://databricks.com/blog/2015/07/15/introducing-window-functions-in-spark-sql.html)
+ - Based on the above quote, organizing into the correct partitions is essential so that your script can appropirately pull the relevant records to compare against one another when performing windowing.
