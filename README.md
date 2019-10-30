@@ -53,6 +53,11 @@ A public collection of all the amazing lists I've come across on github (or else
  - **[Amazon Web Services (AWS)](https://github.com/donnemartin/awesome-aws)**
     - [Python AWS SDK](https://github.com/boto/boto3)
 
+## Innovation:
+ - [Participative Decision-Making](https://en.wikipedia.org/wiki/Participative_decision-making#Autocratic)
+    - Comes with great models to facilitate decision making, as well as a section on **foresight**
+ - [Playbook for Strategic Foresight and Innovation](https://www.thegeniusworks.com/wp-content/uploads/2016/01/Playbook-for-Strategic-Foresight-and-Innovation-A4.pdf)
+
 ## Workflows:
 
 ## Marketplaces:
@@ -114,6 +119,9 @@ A public collection of all the amazing lists I've come across on github (or else
 
 ## Methodologies / Models
  - [Model of Human Intelligence](https://en.wikipedia.org/wiki/Outline_of_human_intelligence)
+
+## Funny Anecdotes:
+ - [Design by Committee](https://en.wikipedia.org/wiki/Design_by_committee)
 
 ## Other List of Lists:
  - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
