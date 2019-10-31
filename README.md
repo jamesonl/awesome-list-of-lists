@@ -57,6 +57,7 @@ A public collection of all the amazing lists I've come across on github (or else
  - [Participative Decision-Making](https://en.wikipedia.org/wiki/Participative_decision-making#Autocratic)
     - Comes with great models to facilitate decision making, as well as a section on **foresight**
  - [Playbook for Strategic Foresight and Innovation](https://www.thegeniusworks.com/wp-content/uploads/2016/01/Playbook-for-Strategic-Foresight-and-Innovation-A4.pdf)
+ - [Francis Bacon | of Innovations](http://www.authorama.com/essays-of-francis-bacon-25.html)
 
 ## Workflows:
 
@@ -104,6 +105,8 @@ A public collection of all the amazing lists I've come across on github (or else
  - [Sklearn: Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
  - [Towards Data Science: Choosing a regression model](https://towardsdatascience.com/choosing-a-scikit-learn-linear-regression-algorithm-dd96b48105f5)
  - [Scoring metrics & How to write your own scoring function](https://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation)
+ - **Editorial Pieces:**
+    - [Twitch | How Our Company Learned to Make Better Predictions About Everything](https://hbr.org/2017/05/how-our-company-learned-to-make-better-predictions-about-everything)
 
 ## Conferences
  - **Engineering**
