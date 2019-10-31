@@ -38,3 +38,7 @@ In no particular order (yet), here are all the questions that I encounter when d
 
  - _"Partitioning Specification: controls which rows will be in the same partition with the given row. Also, the user might want to make sure all rows having the same value for  the category column are collected to the same machine before ordering and calculating the frame.  If no partitioning specification is given, then all data must be collected to a single machine."_ - [PySpark Explanation of Partitioning](https://databricks.com/blog/2015/07/15/introducing-window-functions-in-spark-sql.html)
  - Based on the above quote, organizing into the correct partitions is essential so that your script can appropirately pull the relevant records to compare against one another when performing windowing.
+ - **The key** _(so I found after much effort...)_ **was in making sure that I had filtered down to the appropriate level of joins. Assuming that raw data tables can naturally undergo joins / windowing in a big data environment is naive...**
+    - A lot of the lessons learned are captured by these articles:
+       - [Lessons Learned from PySpark](https://www.enigma.com/blog/things-i-wish-id-known-about-spark)
+       - [Generic PySpark Interview Questions](https://data-flair.training/blogs/pyspark-interview-questions/)
