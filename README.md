@@ -58,8 +58,8 @@ A public collection of all the amazing lists I've come across on github (or else
     - Comes with great models to facilitate decision making, as well as a section on **foresight**
  - [Playbook for Strategic Foresight and Innovation](https://www.thegeniusworks.com/wp-content/uploads/2016/01/Playbook-for-Strategic-Foresight-and-Innovation-A4.pdf)
  - [Francis Bacon | of Innovations](http://www.authorama.com/essays-of-francis-bacon-25.html)
-
-## Workflows:
+ - [Private Equity vs. Private Ownership](https://www.exponential-e.com/images/whitepaper/Private-Equity-v-Private-Ownership)
+ - [Air Force Lean Logistics](https://www.rand.org/content/dam/rand/pubs/monograph_reports/2007/MR458.pdf)
 
 ## Marketplaces:
  - Github Marketplace
