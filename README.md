@@ -86,6 +86,7 @@ A public collection of all the amazing lists I've come across on github (or else
     - [The role of small microbusinesses in the economy](https://www.sba.gov/sites/default/files/Microbusinesses_in_the_Economy.pdf)
  - **[Company of One](https://ofone.co)** - Minimalist business principles, interviews, and course content
  - [Startup Genome Project](https://startupgenome.com) - Information about what makes startups successful, accelerator programs and hubs, as well as how to attract investors
+ - [Resources for founders](https://steveblank.com/tools-and-blogs-for-entrepreneurs/)
 
 ## Worldbuilding
  - [Wikipedia Worldbuilding page](https://en.wikipedia.org/wiki/Worldbuilding)
