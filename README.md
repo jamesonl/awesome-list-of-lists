@@ -90,6 +90,7 @@ A public collection of all the amazing lists I've come across on github (or else
  - **[Company of One](https://ofone.co)** - Minimalist business principles, interviews, and course content
  - [Startup Genome Project](https://startupgenome.com) - Information about what makes startups successful, accelerator programs and hubs, as well as how to attract investors
  - [Resources for founders](https://steveblank.com/tools-and-blogs-for-entrepreneurs/)
+ - [Finding a domain name](https://instantdomainsearch.com/)
 
 ## Worldbuilding
  - [Wikipedia Worldbuilding page](https://en.wikipedia.org/wiki/Worldbuilding)
