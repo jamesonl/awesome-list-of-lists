@@ -119,6 +119,7 @@ A public collection of all the amazing lists I've come across on github (or else
        - [Historical Conference Sessions (Recorded)](https://databricks.com/sparkaisummit/north-america/sessions)
     - [Python](https://us.pycon.org/)
        - [Pycon 2020](https://us.pycon.org/2020/registration/)
+    - [QCon 2019](https://github.com/jamesonl/awesome-list-of-lists/blob/master/QCon2019.md)
 
 ## Maker
  - [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage)
