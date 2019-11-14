@@ -120,6 +120,7 @@ A public collection of all the amazing lists I've come across on github (or else
     - [Python](https://us.pycon.org/)
        - [Pycon 2020](https://us.pycon.org/2020/registration/)
     - [QCon 2019](https://github.com/jamesonl/awesome-list-of-lists/blob/master/QCon2019.md)
+    - [Devternity](https://devternity.com/) - Turning developers into architects and engineering leaders.
 
 ## Maker
  - [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage)
