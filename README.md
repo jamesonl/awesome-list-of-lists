@@ -121,6 +121,15 @@ A public collection of all the amazing lists I've come across on github (or else
        - [Pycon 2020](https://us.pycon.org/2020/registration/)
     - [QCon 2019](https://github.com/jamesonl/awesome-list-of-lists/blob/master/QCon2019.md)
     - [Devternity](https://devternity.com/) - Turning developers into architects and engineering leaders.
+    - [AICamp](https://www.youtube.com/channel/UCj09XsAWj-RF9kY4UvBJh_A/videos)
+    - [AMLD EPFL](https://appliedmldays.org/schedule)
+    - [AnacondaCon 2019 ML Track](https://www.youtube.com/watch?v=LVhuj7pOWa0&list=PLGB9meziqbzr7_gqSUwmRepko6LuXsmaN)
+    - [Qcon.ai Applied Software for Developers](https://qcon.ai/?utm_source=mediapartner&utm_medium=listing&utm_campaign=kdnuggetsqconai19)
+    - [Strata 2019](https://www.youtube.com/watch?v=lkZKngg8PA8&list=PL055Epbe6d5bERedBkiFxuUIE7ttY8-yB)
+    - [Re-Work Deep Learning Reinforcement](https://www.youtube.com/watch?v=EczYSl-ei9g&list=PLnDbcXCpYZ8m7bVd1HjRTwWHy6X48bq4T)
+    - [VentureBeat Transform 2019](https://www.youtube.com/watch?v=GjrTip4IQp8&list=PLMQoSwszBxm46TwrrMLM4_xPAr7APU58h)
+    - [MLOps NYC 2019](https://www.youtube.com/watch?v=4dpGx8peO9w&list=PLH8M0UOY0uy6d_n3vEQe6J_gRBUrISF9m)
+    - [OSCon 2019](https://www.youtube.com/playlist?list=PL055Epbe6d5aROVicBdg0MRBZhI-NQqHL)
 
 ## Maker
  - [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage)
