@@ -23,6 +23,9 @@ A public collection of all the amazing lists I've come across on github (or else
       - [My Spark Notes](https://github.com/jamesonl/awesome-list-of-lists/blob/master/PySpark.md)
     - [Protégé - An Ontology Modeling Language](https://protege.stanford.edu/)
       - [Cellfie Plugin](https://github.com/protegeproject/cellfie-plugin/wiki/Grocery-Tutorial) - A Protégé Desktop plugin for importing spreadsheet data into OWL ontologies.
+    - Spoken Languages:
+      - Methods:
+         - [Pimsleur Method](http://www.pimsleurmethod.com/pimsleur-english.html) - This method is based off of two governing language acquisition principles: [**Graduated Interval Recall** and **Principle of Anticipation**](http://www.pimsleurmethod.com/)
     
  - **Data Science:**
     - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
