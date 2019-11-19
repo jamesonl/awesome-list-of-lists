@@ -142,6 +142,13 @@ A public collection of all the amazing lists I've come across on github (or else
 ## Methodologies / Models
  - [Model of Human Intelligence](https://en.wikipedia.org/wiki/Outline_of_human_intelligence)
 
+## Prediction Markets:
+ - [PredictIt](https://www.predictit.org/) - site for political opinions
+ - [Hollywood Stock Exchange](https://www.hsx.com/)
+ - [Augur](https://www.augur.net/) - crypto prediction market
+ - [Fan Duel](https://www.fanduel.com/) - sports betting
+ - [Consensus Point](https://www.consensuspoint.com/) - Prediction Market research firm
+
 ## Funny Anecdotes:
  - [Design by Committee](https://en.wikipedia.org/wiki/Design_by_committee)
 
