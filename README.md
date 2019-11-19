@@ -1,6 +1,9 @@
 # awesome-list-of-lists
 A public collection of all the amazing lists I've come across on github (or elsewhere).
 
+## Blogs I Follow:
+ - [DS Lore](http://nadbordrozd.github.io/blog/2016/05/22/one-weird-trick-that-will-fix-your-pyspark-schemas/)
+
 ## What to hire for:
  - [SysAdmin](https://github.com/kahun/awesome-sysadmin)
  - [Data Pipelines](https://github.com/pditommaso/awesome-pipeline)
@@ -141,6 +144,9 @@ A public collection of all the amazing lists I've come across on github (or else
 
 ## Methodologies / Models
  - [Model of Human Intelligence](https://en.wikipedia.org/wiki/Outline_of_human_intelligence)
+ - [Extract, Transform, Load (ETL)](https://en.wikipedia.org/wiki/Extract,_transform,_load)
+ - [Model, View, Controller (MVC)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+ - [Weather Models](https://weathermodels.com/)
 
 ## Prediction Markets:
  - [PredictIt](https://www.predictit.org/) - site for political opinions
