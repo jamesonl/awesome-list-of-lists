@@ -155,6 +155,12 @@ A public collection of all the amazing lists I've come across on github (or else
  - [Fan Duel](https://www.fanduel.com/) - sports betting
  - [Consensus Point](https://www.consensuspoint.com/) - Prediction Market research firm
 
+## Unity / Simulation
+ - [HoboGalaxy](https://github.com/hobogalaxy/EvOLuTIoN) - Evolutionary pathfinding in Unity using Genetic Algorithm
+ - [Awesome-Unity](https://github.com/RyanNielson/awesome-unity)
+ - [ML Agents in Unity](https://github.com/Unity-Technologies/ml-agents)
+ - [Awesome Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking)
+
 ## Funny Anecdotes:
  - [Design by Committee](https://en.wikipedia.org/wiki/Design_by_committee)
 
