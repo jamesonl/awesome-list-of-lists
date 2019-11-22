@@ -111,6 +111,8 @@ A public collection of all the amazing lists I've come across on github (or else
     - Real world example of a person buidling out EVERY (and I mean **every**) aspect of a world
  
 ## Forecasting
+ - [Evaluating Forecasting Models, Training and Testing Sets](https://otexts.com/fpp2/accuracy.html)
+    - [My own notes](https://github.com/jamesonl/awesome-list-of-lists/tree/master/readings/forecasting)
  - [Sklearn regression models](https://scikit-learn.org/stable/modules/linear_model.html)
  - [An overview of forecasting](https://www.statpac.org/research-library/forecasting.htm)
  - [Sklearn: Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
