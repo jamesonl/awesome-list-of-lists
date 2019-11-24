@@ -3,6 +3,7 @@ A public collection of all the amazing lists I've come across on github (or else
 
 ## Blogs I Follow:
  - [DS Lore](http://nadbordrozd.github.io/blog/2016/05/22/one-weird-trick-that-will-fix-your-pyspark-schemas/)
+ - [Patrick Collison](https://patrickcollison.com/)
 
 ## What to hire for:
  - [SysAdmin](https://github.com/kahun/awesome-sysadmin)
@@ -120,6 +121,9 @@ A public collection of all the amazing lists I've come across on github (or else
  - [Scoring metrics & How to write your own scoring function](https://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation)
  - **Editorial Pieces:**
     - [Twitch | How Our Company Learned to Make Better Predictions About Everything](https://hbr.org/2017/05/how-our-company-learned-to-make-better-predictions-about-everything)
+
+## Foundations:
+ - [LongNow](http://longnow.org/)
 
 ## Conferences
  - **Engineering**
