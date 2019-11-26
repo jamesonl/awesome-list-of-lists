@@ -173,3 +173,6 @@ A public collection of all the amazing lists I've come across on github (or else
 ## Other List of Lists:
  - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
  - [Awesome Quotes](https://github.com/jamesonl/awesome-list-of-lists/blob/master/quotes.md)
+
+## Wikipedia Pages:
+ - [Long Now Foundation](https://en.wikipedia.org/wiki/Long_Now_Foundation)
