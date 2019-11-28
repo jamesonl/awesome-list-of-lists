@@ -176,3 +176,6 @@ A public collection of all the amazing lists I've come across on github (or else
 
 ## Wikipedia Pages:
  - [Long Now Foundation](https://en.wikipedia.org/wiki/Long_Now_Foundation)
+
+## Protocol / Standards:
+ - [OpenSearch](https://github.com/dewitt/opensearch/blob/master/opensearch-1-1-draft-6.md)
