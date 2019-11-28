@@ -48,6 +48,7 @@ A public collection of all the amazing lists I've come across on github (or else
     
  - **Utilities:**
     - [Command Line](https://github.com/herrbischoff/awesome-macos-command-line)
+    - [docopt](http://docopt.org/)
     
 -----------------------------------------------------------------------------------------------------------------------
 
