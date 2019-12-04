@@ -143,6 +143,7 @@ A public collection of all the amazing lists I've come across on github (or else
     - [VentureBeat Transform 2019](https://www.youtube.com/watch?v=GjrTip4IQp8&list=PLMQoSwszBxm46TwrrMLM4_xPAr7APU58h)
     - [MLOps NYC 2019](https://www.youtube.com/watch?v=4dpGx8peO9w&list=PLH8M0UOY0uy6d_n3vEQe6J_gRBUrISF9m)
     - [OSCon 2019](https://www.youtube.com/playlist?list=PL055Epbe6d5aROVicBdg0MRBZhI-NQqHL)
+    - [Rob Hyndman Seminars](https://robjhyndman.com/seminars/)
 
 ## Maker
  - [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/HomePage)
