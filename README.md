@@ -5,6 +5,9 @@ A public collection of all the amazing lists I've come across on github (or else
  - [DS Lore](http://nadbordrozd.github.io/blog/2016/05/22/one-weird-trick-that-will-fix-your-pyspark-schemas/)
  - [Patrick Collison](https://patrickcollison.com/)
 
+## Aviation / Aerospace:
+ - [Zephyr](https://en.wikipedia.org/wiki/Airbus_Zephyr)
+
 ## What to hire for:
  - [SysAdmin](https://github.com/kahun/awesome-sysadmin)
  - [Data Pipelines](https://github.com/pditommaso/awesome-pipeline)
