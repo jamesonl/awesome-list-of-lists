@@ -36,6 +36,7 @@ A public collection of all the amazing lists I've come across on github (or else
     
  - **Data Science:**
     - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+      - [Sparse Matrices for Machine Learning & Regression Problems](https://dziganto.github.io/Sparse-Matrices-For-Efficient-Machine-Learning/)
     - [Tensorflow](https://github.com/jtoy/awesome-tensorflow)
     - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
     - [Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
