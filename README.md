@@ -41,6 +41,10 @@ A public collection of all the amazing lists I've come across on github (or else
     - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
     - [Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
     - [Natural Language Processing](https://github.com/keon/awesome-nlp)
+    - [Machine Learning Interpretability](https://christophm.github.io/interpretable-ml-book/translations.html)
+       - [Understanding Black-Box Predictions via Influence Functions](http://proceedings.mlr.press/v70/koh17a/koh17a.pdf)
+       - [Explanation of Prediction Models with ExplainPrediction](https://www.researchgate.net/publication/324795496_Explanation_of_prediction_models_with_explain_prediction)
+       - [Explanation: Theoretical Approaches and Applications](https://philpapers.org/rec/LIPCEA)
     
  - **Front End:**
     - [React](https://github.com/enaqx/awesome-react)
