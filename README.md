@@ -119,7 +119,11 @@ A public collection of all the amazing lists I've come across on github (or else
  - [Worldbuilding Best Practices](https://blog.reedsy.com/worldbuilding-guide/)
  - [Worldbuilding Notes](https://www.youtube.com/channel/UCncTjqw75krp9j_wRRh5Gvw)
     - Real world example of a person buidling out EVERY (and I mean **every**) aspect of a world
- 
+
+## Tools for Thought
+ - [Anki](https://ankiweb.net/)
+    - [Best Practices for Learning with Anki](https://medium.com/swlh/level-up-your-learning-with-anki-and-spaced-repetition-3c1a84003ced)
+
 ## Forecasting
  - [Evaluating Forecasting Models, Training and Testing Sets](https://otexts.com/fpp2/accuracy.html)
     - [My own notes](https://github.com/jamesonl/awesome-list-of-lists/tree/master/readings/forecasting)
