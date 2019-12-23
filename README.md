@@ -123,6 +123,8 @@ A public collection of all the amazing lists I've come across on github (or else
 ## Tools for Thought
  - [Anki](https://ankiweb.net/)
     - [Best Practices for Learning with Anki](https://medium.com/swlh/level-up-your-learning-with-anki-and-spaced-repetition-3c1a84003ced)
+ - [Thought](https://en.wikipedia.org/wiki/Thought)
+ - [Tools](https://en.wikipedia.org/wiki/Tool)
 
 ## Forecasting
  - [Evaluating Forecasting Models, Training and Testing Sets](https://otexts.com/fpp2/accuracy.html)
