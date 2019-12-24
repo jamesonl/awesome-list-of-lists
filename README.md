@@ -195,3 +195,6 @@ A public collection of all the amazing lists I've come across on github (or else
 
 ## Protocol / Standards:
  - [OpenSearch](https://github.com/dewitt/opensearch/blob/master/opensearch-1-1-draft-6.md)
+
+## Other Tools:
+ - [GitShowcase](https://www.gitshowcase.com/)
