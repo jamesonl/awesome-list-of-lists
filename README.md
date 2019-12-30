@@ -125,6 +125,7 @@ A public collection of all the amazing lists I've come across on github (or else
     - [Best Practices for Learning with Anki](https://medium.com/swlh/level-up-your-learning-with-anki-and-spaced-repetition-3c1a84003ced)
  - [Thought](https://en.wikipedia.org/wiki/Thought)
  - [Tools](https://en.wikipedia.org/wiki/Tool)
+ - [IA Toolkit](http://iadesignkit.com/6/)
 
 ## Forecasting
  - [Evaluating Forecasting Models, Training and Testing Sets](https://otexts.com/fpp2/accuracy.html)
@@ -189,9 +190,6 @@ A public collection of all the amazing lists I've come across on github (or else
 ## Other List of Lists:
  - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
  - [Awesome Quotes](https://github.com/jamesonl/awesome-list-of-lists/blob/master/quotes.md)
-
-## Wikipedia Pages:
- - [Long Now Foundation](https://en.wikipedia.org/wiki/Long_Now_Foundation)
 
 ## Protocol / Standards:
  - [OpenSearch](https://github.com/dewitt/opensearch/blob/master/opensearch-1-1-draft-6.md)
